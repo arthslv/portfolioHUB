@@ -1,8 +1,5 @@
 # portfolioHUB - Paulo Arthur
 
-<img src="![WhatsApp Image 2026-04-05 at 10 58 05](https://github.com/user-attachments/assets/79fa267e-5596-4431-a63d-f14c39cd9f11)
-" width="20" height="20" align="left"> **LinkedIn**: www.linkedin.com/in/pauloarthur-devstart
-
 
 
 
@@ -19,8 +16,7 @@ Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande 
 ## Contato e Informações Adicionais
 
 
-<img src="![linkedin-logo-linkedin-icon-transparent-free-png] (https://github.com/user-attachments/assets/da9a61d0-c83f-4fd7-890a-9ca570a96014)
-" width="20" height="20">     LinkedIn : ( www.linkedin.com/in/pauloarthur-devstart)
+    LinkedIn : ( www.linkedin.com/in/pauloarthur-devstart)
 
 
 

@@ -1,9 +1,6 @@
 # portfolioHUB - Paulo Arthur
 
-
-
-
-
+Paulo Arthur Silva - 19 anos 
 Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande interesse em hardware, montagem de PCs e otimização de sistemas, estou na formação com foco em ser programador full stack. Atualmente, estou focado em aprender lógica de programação e Python.
 
 

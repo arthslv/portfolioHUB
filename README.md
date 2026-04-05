@@ -51,3 +51,8 @@ Email: arthur.swv@gmail.com
 - Edição de Vídeo (CapCut, Kinemaster, Sony Vegas), Edição de fotos ( Photoshop cs6 e PS Touch portable) e Design Digital.
 
 
+## Projetos Acadêmicos
+
+- Portfolio no GIT e Docs/ Word
+
+- Trabalho sobre uma figura histórica - CEUB, direcionado pelo Professor Paldés : https://www.linkedin.com/feed/update/urn:li:activity:7433238490647023616/?originTrackingId=dnWc7ckLm9dA8hiBg4McJw%3D%3D

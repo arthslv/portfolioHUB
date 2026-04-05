@@ -17,7 +17,8 @@ Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande 
 ## Contato e Informações Adicionais
 
 
-<img src="https://raw.githubusercontent.com/rahultk18/resources/master/linkedin.png" width="20" height="20"> [Meu LinkedIn] ( www.linkedin.com/in/pauloarthur-devstart)
+<img src="![linkedin-logo-linkedin-icon-transparent-free-png](https://github.com/user-attachments/assets/da9a61d0-c83f-4fd7-890a-9ca570a96014)
+" width="20" height="20"> [Meu LinkedIn] ( www.linkedin.com/in/pauloarthur-devstart)
 
 
 

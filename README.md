@@ -1,6 +1,6 @@
 # portfolioHUB - Paulo Arthur
 
-![WhatsApp Image 2026-04-05 at 10 58 05](https://github.com/user-attachments/assets/50eb1f25-1f33-4553-9f0c-d6333e8f84eb)
+<img src=![WhatsApp Image 2026-04-05 at 10 58 05](https://github.com/user-attachments/assets/50eb1f25-1f33-4553-9f0c-d6333e8f84eb)" width="20" height="20"> 
 
 
 

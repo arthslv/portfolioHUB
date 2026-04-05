@@ -17,6 +17,9 @@ Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande 
 
 
 LinkedIn : www.linkedin.com/in/pauloarthur-devstart
+
+
+
 Email: arthur.swv@gmail.com
 
 

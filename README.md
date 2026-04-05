@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande 
 ## Contato e Informações Adicionais
 
 
-LinkedIn : ( www.linkedin.com/in/pauloarthur-devstart)
+LinkedIn : www.linkedin.com/in/pauloarthur-devstart
 
 
 

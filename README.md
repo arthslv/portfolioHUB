@@ -1,6 +1,7 @@
 # portfolioHUB - Paulo Arthur
 
-<img src="https://github.com/user-attachments/assets/da9a61d0-c03f-4fd7-890e-9ca570a96014" width="20" height="20" align="left"> **LinkedIn**: www.linkedin.com/in/pauloarthur-devstart
+<img src="![WhatsApp Image 2026-04-05 at 10 58 05](https://github.com/user-attachments/assets/79fa267e-5596-4431-a63d-f14c39cd9f11)
+" width="20" height="20" align="left"> **LinkedIn**: www.linkedin.com/in/pauloarthur-devstart
 
 
 

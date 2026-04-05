@@ -40,7 +40,7 @@ Email: arthur.swv@gmail.com
 
 ## Profissional
 
-- ** Buscando primeira experiência de trabalho**
+- **Buscando primeira experiência de trabalho**
 - **Sistema de Controle Acadêmico:** em estudo: Modelagem de banco de dados (Entidade-Relacionamento) para gestão universitária.
 - **Manutenção de Hardware:** Experiência com montagem e configuração de sistemas, formatação e limpeza de Hardware
 
@@ -51,6 +51,3 @@ Email: arthur.swv@gmail.com
 - Edição de Vídeo (CapCut, Kinemaster, Sony Vegas), Edição de fotos ( Photoshop cs6 e PS Touch portable) e Design Digital.
 
 
-
-- [Meu LinkedIn](COLOQUE_O_LINK_AQUI)
-- Email: [SEU_EMAIL_AQUI]

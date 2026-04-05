@@ -1,19 +1,31 @@
 # portfolioHUB - Paulo Arthur
 
 
-## Contato e Informações Adicionais
-
-www.linkedin.com/in/pauloarthur-devstart
-
-
-
-
-
 
 
 
 
 Sou estudante de Engenharia de Software na UniCEUB (1º semestre). Tenho grande interesse em hardware, montagem de PCs e otimização de sistemas, estou na formação com foco em ser programador full stack. Atualmente, estou focado em aprender lógica de programação e Python.
+
+
+
+
+
+
+
+
+## Contato e Informações Adicionais
+
+![linkedin-logo-linkedin-icon-transparent-free-png](https://github.com/user-attachments/assets/e3461679-b6d9-4210-9564-6d48a974507a) www.linkedin.com/in/pauloarthur-devstart
+
+
+
+
+
+
+
+
+
 
 
 
